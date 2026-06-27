@@ -1,0 +1,1 @@
+Ajoutez vos photos dans images/ puis modifiez index.html.
